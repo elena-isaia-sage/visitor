@@ -1,0 +1,15 @@
+<plants>
+	<flowers>
+		<rose>value="rose"	color="red"	size="medium"</rose>
+		<tulip>value="tulip"	color="orange"	size="medium"</tulip>
+		<sunflower>value="sunflower"	color="yellow"	size="medium"</sunflower>
+		<snowdrop>value="snowdrop"	color="white"	size="small"</snowdrop>
+	</flowers>
+	<trees>
+		<fir>value="fir"	color="dark green"	size="big"</fir>
+		<spruce>value="spruce"	color="dark green"	size="big"</spruce>
+		<willow>value="willow"	color="light green"	size="big"</willow>
+		<thuja>value="thuja"	color="dark green"	size="medium"</thuja>
+	</trees>
+	<grass>value="grass"	color="green"	size="small"</grass>
+</plants>
